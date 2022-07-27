@@ -1,0 +1,14 @@
+# Jupyter and Pandas Libraries
+jupyter
+numpy
+pandas
+matplotlib
+seaborn
+altair
+geopandas
+mapclassify
+
+# Development tools
+black
+pylint
+mypy
